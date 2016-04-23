@@ -1,0 +1,22 @@
+int: D, M.
+
+{ scanf } 
+read: D.
+
+{ scanf }
+read: M.
+
+M = M + M.
+
+write: M.
+
+loop
+	D > M.
+	
+	M = M + M.
+	write: M.
+
+endloop.
+
+{ return 0 }
+quit.
