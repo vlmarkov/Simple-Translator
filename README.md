@@ -1,2 +1,3 @@
-# simple_translator
-simple translator from some language to assembler (c++ implementation)
+#  Simple Translator
+# Features
+* Translation from own language to x86 assembler
